@@ -60,14 +60,14 @@ The following models were trained and integrated:
 📈 Improve model accuracy with additional feature engineering.
 🌍 Deploy on cloud services for wider accessibility.
 🎨 Enhance UI/UX for better user experience.
+
 📜 License
 This project is open-source and available under the University of Malta License.
 
 💡 **Acknowledgments**
 Data Source: UCI Machine Learning Repository
 Thanks to Barry Becker for extracting the dataset.
-🔗 Live Demo: Click here to try it
-📧 Contact: your-email@example.com
+🔗 Live Demo: Click here to try it; https://huggingface.co/spaces/UM-ML-Project/Income-prediction
 
 👥 Contributors
 This project was developed as part of our ML coursework at the University of Malta by the following students:
